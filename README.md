@@ -1,7 +1,7 @@
 # Hangman
 by: Vishnu Sai Sankeerth, Aravind V and Oormila G.
 
-The popular Hangman pen & paper game implemented in GUI with Python Tkinter library.
+The popular Hangman pen & paper game, implemented in GUI with Python Tkinter library.
 
 The game consists of one player giving a word unknown to other player and asking him
 to guess it. Here the role of the first player is taken by the computer. Then as the player
